@@ -1,0 +1,9 @@
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\volleyball_problem\obj\Debug\volleyball_problem.pdb
