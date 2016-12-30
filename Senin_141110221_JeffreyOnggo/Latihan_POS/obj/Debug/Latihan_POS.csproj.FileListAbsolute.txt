@@ -1,0 +1,27 @@
+D:\Senin_141111294_Calwin\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.formHome.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Senin_141111294_Calwin\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Senin_141111294_Calwin\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.formRegistrasiBarang.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormRegistrasiCustomer.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormRegistrasiSupplier.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormEdit.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormDelete.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormListBarang.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormListCustomer.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormListSupplier.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.formRegis.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormListItem.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormPenjualan.resources
+D:\Senin_141111294_Calwin\Latihan_POS\obj\Debug\Latihan_POS.FormPembelian.resources
+C:\Users\User\Downloads\Latihan_POS\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+C:\Users\User\Downloads\Latihan_POS\Latihan_POS\obj\Debug\Latihan_POS.exe
+C:\Users\User\Downloads\Latihan_POS\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Kuliah\Framework Lanjutan\Senin_141110221_JeffreyOnggo\Latihan_POS\obj\Debug\Latihan_POS.pdb
